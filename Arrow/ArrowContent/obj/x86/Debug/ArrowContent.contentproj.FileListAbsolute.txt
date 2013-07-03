@@ -1,0 +1,2 @@
+C:\Users\ryan\Google Drive\Code\Visual Studio\Arrow\Arrow\ArrowContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ryan\Google Drive\Code\Visual Studio\Archery\Arrow\ArrowContent\obj\x86\Debug\ResolveAssemblyReference.cache

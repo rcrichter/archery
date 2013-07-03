@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Generic="System.Collections.Generic">
+  <Asset Type="Generic:List[ContentLibrary.EnemyInfo]">
+    <Item>
+      <XStart>90</XStart>
+      <YStart>180</YStart>
+      <StartTime>5</StartTime>
+      <EnemyType>Demon</EnemyType>
+      <Speed>2</Speed>
+    </Item>
+  </Asset>
+</XnaContent>

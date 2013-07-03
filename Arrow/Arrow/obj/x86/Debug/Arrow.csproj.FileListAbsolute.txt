@@ -1,0 +1,9 @@
+C:\Users\ryan\Google Drive\Code\Visual Studio\Arrow\Arrow\Arrow\bin\x86\Debug\Content\archer_elf.xnb
+C:\Users\ryan\Google Drive\Code\Visual Studio\Arrow\Arrow\Arrow\bin\x86\Debug\Content\9RPGenemies.xnb
+C:\Users\ryan\Google Drive\Code\Visual Studio\Arrow\Arrow\Arrow\bin\x86\Debug\Content\projectiles.xnb
+C:\Users\ryan\Google Drive\Code\Visual Studio\Arrow\Arrow\Arrow\bin\x86\Debug\Arrow.exe
+C:\Users\ryan\Google Drive\Code\Visual Studio\Arrow\Arrow\Arrow\bin\x86\Debug\Arrow.pdb
+C:\Users\ryan\Google Drive\Code\Visual Studio\Arrow\Arrow\Arrow\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ryan\Google Drive\Code\Visual Studio\Arrow\Arrow\Arrow\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\ryan\Google Drive\Code\Visual Studio\Arrow\Arrow\Arrow\obj\x86\Debug\Arrow.exe
+C:\Users\ryan\Google Drive\Code\Visual Studio\Arrow\Arrow\Arrow\obj\x86\Debug\Arrow.pdb

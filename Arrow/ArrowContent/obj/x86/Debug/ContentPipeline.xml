@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>archer_elf.png</Source>
+      <Name>archer_elf</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ryan\Google Drive\Code\Visual Studio\Archery\Arrow\Arrow\bin\x86\Debug\Content\archer_elf.xnb</Output>
+      <Time>2012-06-30T13:33:52.8270581-07:00</Time>
+    </Item>
+    <Item>
+      <Source>9RPGenemies.PNG</Source>
+      <Name>9RPGenemies</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ryan\Google Drive\Code\Visual Studio\Archery\Arrow\Arrow\bin\x86\Debug\Content\9RPGenemies.xnb</Output>
+      <Time>2012-06-30T13:34:00.8625177-07:00</Time>
+    </Item>
+    <Item>
+      <Source>projectiles.png</Source>
+      <Name>projectiles</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ryan\Google Drive\Code\Visual Studio\Archery\Arrow\Arrow\bin\x86\Debug\Content\projectiles.xnb</Output>
+      <Time>2012-06-30T13:34:11.6921371-07:00</Time>
+    </Item>
+    <Item>
+      <Source>demon.png</Source>
+      <Name>demon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ryan\Google Drive\Code\Visual Studio\Archery\Arrow\Arrow\bin\x86\Debug\Content\demon.xnb</Output>
+      <Time>2012-06-30T17:57:08.2485045-07:00</Time>
+    </Item>
+    <Item>
+      <Source>arrow.png</Source>
+      <Name>arrow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ryan\Google Drive\Code\Visual Studio\Archery\Arrow\Arrow\bin\x86\Debug\Content\arrow.xnb</Output>
+      <Time>2012-06-30T23:11:09.7921792-07:00</Time>
+    </Item>
+    <Item>
+      <Source>birdman.png</Source>
+      <Name>birdman</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ryan\Google Drive\Code\Visual Studio\Archery\Arrow\Arrow\bin\x86\Debug\Content\birdman.xnb</Output>
+      <Time>2012-06-30T23:17:14.7640544-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Levels\level1.xml</Source>
+      <Name>Levels\level1</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ryan\Google Drive\Code\Visual Studio\Archery\Arrow\Arrow\bin\x86\Debug\Content\Levels\level1.xnb</Output>
+      <Time>2012-07-09T21:39:12.346047-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Levels\level2.xml</Source>
+      <Name>Levels\level2</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ryan\Google Drive\Code\Visual Studio\Archery\Arrow\Arrow\bin\x86\Debug\Content\Levels\level2.xnb</Output>
+      <Time>2012-07-04T16:12:17.9856456-07:00</Time>
+    </Item>
+    <Item>
+      <Source>archerytitle.png</Source>
+      <Name>archerytitle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ryan\Google Drive\Code\Visual Studio\Archery\Arrow\Arrow\bin\x86\Debug\Content\archerytitle.xnb</Output>
+      <Time>2012-07-01T21:57:33.1771907-07:00</Time>
+    </Item>
+    <Item>
+      <Source>ammo.png</Source>
+      <Name>ammo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ryan\Google Drive\Code\Visual Studio\Archery\Arrow\Arrow\bin\x86\Debug\Content\ammo.xnb</Output>
+      <Time>2012-07-02T20:26:05.152091-07:00</Time>
+    </Item>
+    <Item>
+      <Source>GameFont.spritefont</Source>
+      <Name>GameFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ryan\Google Drive\Code\Visual Studio\Archery\Arrow\Arrow\bin\x86\Debug\Content\GameFont.xnb</Output>
+      <Time>2012-07-02T20:33:31.5686245-07:00</Time>
+    </Item>
+    <Item>
+      <Source>background.png</Source>
+      <Name>background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ryan\Google Drive\Code\Visual Studio\Archery\Arrow\Arrow\bin\x86\Debug\Content\background.xnb</Output>
+      <Time>2012-07-09T21:32:23.6886731-07:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\ryan\Google Drive\Code\Visual Studio\Archery\Arrow\ArrowContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\ryan\Google Drive\Code\Visual Studio\Archery\Arrow\Arrow\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\ryan\Google Drive\Code\Visual Studio\Archery\Arrow\ArrowContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\ryan\Google Drive\Code\Visual Studio\Archery\Arrow\Arrow\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Users\ryan\Google Drive\Code\Visual Studio\Archery\ContentLibrary\bin\x86\Debug\ContentLibrary.dll</Key>
+        <Value>2012-07-01T19:44:41.887259-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-04-09T22:18:39.3115955-07:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
